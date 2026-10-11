@@ -27,7 +27,7 @@ Arka planda gücünü OpenAI'ın gelişmiş konuşma tanıma modeli olan Whisper
 
 Eğer kodlarla uğraşmak istemiyor ve programı standart bir Windows uygulaması gibi bilgisayarınıza kurmak istiyorsanız, aşağıdaki bağlantıdan hazırladığım Setup dosyasını indirebilirsiniz:
 
-📥 **[Programı İndirmek İçin Buraya Tıklayın]**
+📥 **[Programı İndirmek İçin Buraya Tıklayın](https://github.com/VodeAn/Kolay-Ceviri-Asistani/releases/tag/1.0.0)**
 
 1. Linkten KolayCeviriSetup.exe dosyasını indirin.
 2. Çift tıklayarak kurulum adımlarını izleyin.
