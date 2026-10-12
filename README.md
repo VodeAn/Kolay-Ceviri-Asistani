@@ -33,7 +33,7 @@ Eğer kodlarla uğraşmak istemiyor ve programı standart bir Windows uygulamas�
 2. Çift tıklayarak kurulum adımlarını izleyin.
 3. Masaüstündeki kısayoldan uygulamayı başlatın ve çevirinin tadını çıkarın!
 
-*(Not: Uygulama şimdilik sadece Windows cihazlarda çalışmaktadır. Mac kullanıcıları için henüz derlenmemiştir.)*
+*(Not: Uygulama şimdilik sadece Windows cihazlarda çalışmaktadır. Mac ve Linux kullanıcıları için henüz derlenmemiştir.)*
 
 ---
 
