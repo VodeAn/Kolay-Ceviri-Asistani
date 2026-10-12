@@ -42,7 +42,7 @@ Eğer kodlarla uğraşmak istemiyor ve programı standart bir Windows uygulamas�
 Projeyi kendi bilgisayarınızda derlemek veya kodları incelemek isterseniz aşağıdaki adımları izleyebilirsiniz.
 
 ### Gereksinimler
-*   Python 3.8 veya üzeri
+*   Python 3.11
 *   FFmpeg (Sistem PATH'ine eklenmiş olmalıdır)
 
 ### Kurulum Adımları
